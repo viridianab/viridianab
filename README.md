@@ -13,6 +13,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma Badge"/>
+  </a>
 </div>
 <div id="badges-2" align="center">
   <a href="#">
@@ -23,6 +26,11 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator Badge"/>
+  </a>
+</div>
+<div id="badges-3" align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31s7y7onoxg5bllym4zahxf5kzju&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Figma Badge"/>
   </a>
 </div>
 
